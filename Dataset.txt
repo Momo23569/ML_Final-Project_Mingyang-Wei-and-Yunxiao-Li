@@ -1,0 +1,4 @@
+Due to the substantial size of our dataset, we've hosted it externally for convenient access.
+It can be downloaded using the following Google Drive link:
+
+https://drive.google.com/drive/folders/1MCn9dHr9BXPxiyb0suDmh4MirLWsoySJ?usp=sharing
